@@ -1,2 +1,2 @@
 # 2020-1 DeepLearning
-What I learned at deep learning class 
+What I learned at 2020-1 deep learning course 
